@@ -1,4 +1,4 @@
-_G.Color = Color3.fromRGB(255, 0, 0)
+_G.Color = Color3.fromRGB(0, 0, 0)
 _G.Logo = 14714307716
 
 do  
